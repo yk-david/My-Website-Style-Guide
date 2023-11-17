@@ -1,0 +1,8 @@
+body {
+  width: 85%;
+  margin: 0 auto;
+}
+
+main > section {
+  border: 1px solid darkgray;
+}
