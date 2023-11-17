@@ -99,3 +99,33 @@ section .title {
 .font-name {
   text-decoration: underline;
 }
+
+.main-heading {
+  font-family: oxygen, sans-serif;
+  margin-left: 10px;
+}
+
+.main-heading p {
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.sub-heading {
+  font-family: rufina, serif;
+  margin-left: 10px;
+}
+
+.sub-heading p {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.paragraph {
+  font-family: 'sometype mono', monospace;
+  margin-left: 10px;
+}
+
+.paragraph p {
+  font-weight: 400;
+  font-size: 14px;
+}
